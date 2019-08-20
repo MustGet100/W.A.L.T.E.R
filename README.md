@@ -1,2 +1,2 @@
 # W.A.L.T.E.R
-Project for the 2020 Intel Science Fair: An app that finds safe routes between destinations, acronym currently in develpment.
+Upcoming project, potentially for a science fair: An app that finds safe routes between destinations using a dataset provided by the Saint Paul Police Department, acronym currently in develpment.
